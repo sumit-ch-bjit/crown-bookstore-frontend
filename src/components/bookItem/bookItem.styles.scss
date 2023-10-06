@@ -1,0 +1,20 @@
+// BookItem.scss
+
+.book-item-container {
+  background-color: #f4f4f4;
+  width: 400px;
+  padding: 20px;
+  border-radius: 8px;
+  margin-bottom: 20px;
+
+  .book-title {
+    color: #333;
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+
+  .book-author {
+    color: #555;
+    font-size: 18px;
+  }
+}
